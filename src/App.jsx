@@ -1,6 +1,5 @@
 import { useState } from "react";
-import { Mail, Github } from "./components/icons.jsx";
-// import Mail, Github from "./components/icons.jsx";
+import { Mail, Github, Linkedin, Dark, Light } from "./components/icons.jsx";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -16,6 +15,9 @@ function App() {
         >
           <Mail />
           <Github />
+          <Linkedin />
+          <Dark />
+          <Light />
         </button>
       </div>
     </div>
