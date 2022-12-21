@@ -1,7 +1,13 @@
 import React, { useState } from "react";
 import { menuList, Navbar } from "./components/navbar.jsx";
 import { Footer } from "./components/footer.jsx";
-import { Github, Linkedin, Twitter, Mail } from "./components/icons.jsx";
+import {
+  Github,
+  Linkedin,
+  Twitter,
+  Mail,
+  ChevronDown,
+} from "./components/icons.jsx";
 
 function App() {
   return (
@@ -54,6 +60,14 @@ function App() {
           </ul>
         </section>
       </header>
+
+      <div className=" relative bottom-16 flex justify-center items-center h-14">
+        <a href="#experience" className="p-2 rounded-full animate-bounce">
+          <ChevronDown />
+        </a>
+      </div>
+
+      <Footer />
 
       {/* {menuList.map(([title, url]) => (
         <div
