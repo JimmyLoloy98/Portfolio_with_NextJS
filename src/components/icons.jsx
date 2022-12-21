@@ -1,5 +1,11 @@
 import React from "react";
 
+/* export function Name(props) {
+  return (
+    <svg></svg>
+  );
+} */
+
 export function Mail(props) {
   return (
     <svg
@@ -179,6 +185,63 @@ export function Link(props) {
       {...props}
     >
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3M8 12h8" />
+    </svg>
+  );
+}
+
+export function Zap(props) {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width={24}
+      height={24}
+      fill="none"
+      stroke="currentColor"
+      strokeWidth={2}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className="feather feather-zap"
+      {...props}
+    >
+      <path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z" />
+    </svg>
+  );
+}
+
+export function Award(props) {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width={24}
+      height={24}
+      fill="none"
+      stroke="currentColor"
+      strokeWidth={2}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      {...props}
+    >
+      <circle cx={12} cy={8} r={7} />
+      <path d="M8.21 13.89 7 23l5-3 5 3-1.21-9.12" />
+    </svg>
+  );
+}
+
+export function Flag(props) {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width={24}
+      height={24}
+      fill="none"
+      stroke="currentColor"
+      strokeWidth={2}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className="feather feather-flag"
+      {...props}
+    >
+      <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1zM4 22v-7" />
     </svg>
   );
 }
