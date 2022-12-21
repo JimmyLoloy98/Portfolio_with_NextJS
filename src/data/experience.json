@@ -1,0 +1,85 @@
+{
+  "name": "experience",
+  "data": [
+    {
+      "title": "personal website",
+      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417431/samples/ecommerce/accessories-bag.jpg",
+      "type": "personal project",
+      "description": "My own personal website as a software developer. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "links": {
+        "repositorie": "https://github.com/JimmyLoloy98/postfolio-JL",
+        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+      }
+    },
+    {
+      "title": "sistema de evaluacion alumno docente",
+      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417429/samples/landscapes/beach-boat.jpg",
+      "type": "startup",
+      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "links": {
+        "repositorie": "https://github.com/JimmyLoloy98/postfolio-JL",
+        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+      }
+    },
+    {
+      "title": "soundclub music player",
+      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417428/samples/landscapes/architecture-signs.jpg",
+      "type": "personal project",
+      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "links": {
+        "repositorie": "https://github.com/JimmyLoloy98/postfolio-JL",
+        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+      }
+    },
+    {
+      "title": "my daily bootcamp",
+      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417425/samples/landscapes/girl-urban-view.jpg",
+      "type": "personal project",
+      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "links": {
+        "repositorie": "https://github.com/JimmyLoloy98/postfolio-JL",
+        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+      }
+    },
+    {
+      "title": "grupo romero",
+      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417430/samples/ecommerce/leather-bag-gray.jpg",
+      "type": "freelance",
+      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "links": {
+        "repositorie": "https://github.com/JimmyLoloy98/postfolio-JL",
+        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+      }
+    },
+    {
+      "title": "yaleth's store",
+      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417429/samples/ecommerce/car-interior-design.jpg",
+      "type": "freelance",
+      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "links": {
+        "repositorie": "https://github.com/JimmyLoloy98/postfolio-JL",
+        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+      }
+    },
+    {
+      "title": "sistema de gestion de investigaciones",
+      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417421/samples/ecommerce/analog-classic.jpg",
+      "type": "hired",
+      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "links": {
+        "repositorie": "",
+        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+      }
+    },
+    {
+      "title": "opentech",
+      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417431/samples/ecommerce/accessories-bag.jpg",
+      "type": "open source mantainer",
+      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "links": {
+        "repositorie": "",
+        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+      }
+    }
+  ]
+}

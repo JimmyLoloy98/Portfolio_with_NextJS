@@ -1,0 +1,25 @@
+{
+  "name": "achievements",
+  "data": [
+    {
+      "title": "incuba UNAS",
+      "level": "startup",
+      "date": "august, 2022"
+    },
+    {
+      "title": "coding competition",
+      "level": "organizer",
+      "date": "september, 2022"
+    },
+    {
+      "title": "opentech commmunity",
+      "level": "organizer",
+      "date": "october, 2019"
+    },
+    {
+      "title": "nn",
+      "level": "nn",
+      "date": "nn"
+    }
+  ]
+}
