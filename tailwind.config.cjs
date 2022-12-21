@@ -5,6 +5,7 @@ module.exports = {
     extend: {},
     fontFamily: {
       sans: ['"Audiowide"', "sans-serif"],
+      sans2: ['"Chivo Mono"', "sans-serif"],
     },
   },
   plugins: [],
