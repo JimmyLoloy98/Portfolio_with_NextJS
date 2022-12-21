@@ -3,6 +3,7 @@ import { menuList, Navbar } from "./components/navbar.jsx";
 import { Footer } from "./components/footer.jsx";
 import { ExperienceSection } from "./components/experience.jsx";
 import {HeroSection} from "./components/hero.jsx";
+import { AchievementSection } from "./components/achievement.jsx";
 
 import {
   Github,
@@ -26,6 +27,8 @@ function App() {
       </div>
 
       <ExperienceSection />
+
+      <AchievementSection />
 
       <Footer />
 
