@@ -37,10 +37,7 @@ export function ExperienceSection() {
               {item.type}
             </p>
             <p className="text-sm md:text-base font-sans2 font-light text-gray-500">
-              {item.description} My own personal website as a software
-              developer. lorem ipsum dolor sit amet consectetur adipisicing
-              elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur
-              adipisicing elit. Quisquam, quae.
+              {item.description}
             </p>
           </figcaption>
         </div>
