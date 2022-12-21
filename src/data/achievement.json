@@ -21,15 +21,15 @@
     },
     {
       "icon": "flag",
-      "title": "nn",
-      "level": "nn",
-      "date": "nn"
+      "title": "hacktoberfest 2022",
+      "level": "mantainer",
+      "date": "october, 2022"
     },
     {
       "icon": "zap",
-      "title": "nn",
-      "level": "nn",
-      "date": "nn"
+      "title": "hacktoberfest 2021",
+      "level": "contributor",
+      "date": "october, 2021"
     }
   ]
 }
