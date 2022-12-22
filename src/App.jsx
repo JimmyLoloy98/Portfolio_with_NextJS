@@ -4,6 +4,7 @@ import { Footer } from "./components/footer.jsx";
 import { ExperienceSection } from "./components/experience.jsx";
 import {HeroSection} from "./components/hero.jsx";
 import { AchievementSection } from "./components/achievement.jsx";
+import { About } from "./components/about.jsx";
 
 import {
   Github,
@@ -29,6 +30,8 @@ function App() {
       <ExperienceSection />
 
       <AchievementSection />
+
+      <About />
 
       <Footer />
 
