@@ -19,7 +19,7 @@ function App() {
       <HeroSection />
 
       <div className=" relative bottom-20 flex justify-center items-center h-14">
-        <a href="#experience" className="p-2 rounded-full animate-bounce duration-500">
+        <a href="#experience" className="p-2 rounded-full animate-bounce">
           <ChevronDown />
         </a>
       </div>
@@ -33,17 +33,6 @@ function App() {
       <ContentCreator />
 
       <Footer />
-
-      {/* {menuList.map(([title, url]) => (
-        <div
-          className="bg-gray-50 h-screen scroll-smooth"
-          id={url.replace("#", "")}
-        >
-          <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
-            {title}
-          </div>
-        </div>
-      ))} */}
     </div>
   );
 }

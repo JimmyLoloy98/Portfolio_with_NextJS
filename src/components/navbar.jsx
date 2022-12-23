@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Github, Close, Menu, Logo1, Logo2 } from "./icons.jsx";
 
 export const menuList = [
-  ["home", "/"],
+  ["home", "#home"],
   ["experience", "#experience"],
   ["achievements", "#achievements"],
   ["about", "#about"],
@@ -22,7 +22,7 @@ export function Navbar() {
       {!menuOpen ? (
         <div className="mx-auto lg:max-w-6xl overflow-auto px-4 sm:px-6 h-20 flex items-center justify-between md:justify-start">
           <div className="flex justify-start lg:w-0 lg:flex-1">
-            <a className="flex place-items-center" href="/">
+            <a className="flex place-items-center" href="#">
               <Logo1 />
             </a>
           </div>
@@ -53,7 +53,7 @@ export function Navbar() {
         <div className="absolute inset-x-0 top-0 origin-top-right transform transition md:hidden">
           <div className="p-5 divide-y-2 divide-gray-50 bg-white shadow-lg">
             <div className="flex items-center justify-between">
-              <Github />
+              <Logo1 />
 
               <button
                 onClick={menuDropdownHandler}

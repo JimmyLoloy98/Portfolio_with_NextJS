@@ -27,7 +27,7 @@ export function AchievementSection() {
   return (
     <section
       id="achievements"
-      className="px-4 xl:px-0 flex justify-center my-40 lg:max-w-6xl lg:mx-auto"
+      className="px-4 pt-40 pb-28 xl:px-0 flex justify-center my-40 lg:max-w-6xl lg:mx-auto"
     >
       <div className="flex flex-col items-center">
         <h2 className="mb-12 pb-1 text-2xl border-b-2 w-fit">Achievements</h2>

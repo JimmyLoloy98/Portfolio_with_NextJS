@@ -7,7 +7,7 @@ export function ContentCreator() {
   return (
     <section
       id="content"
-      className="px-4 mb-40 md:px-4 xl:px-0 flex flex-col items-center lg:max-w-6xl lg:mx-auto"
+      className="px-4 pt-32 pb-28 md:px-4 xl:px-0 flex flex-col items-center lg:max-w-6xl lg:mx-auto"
     >
       <h2 className="mb-12 pb-1 text-2xl border-b-2">Blogs & Talks</h2>
 

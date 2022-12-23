@@ -8,7 +8,7 @@ export function ExperienceSection() {
   return (
     <section
       id="experience"
-      className="mb-8 grid place-items-center lg:max-w-6xl lg:mx-auto"
+      className="pt-32 grid place-items-center lg:max-w-6xl lg:mx-auto"
     >
       <h2 className="mb-8 pb-1 text-2xl border-b-2">Experience</h2>
 

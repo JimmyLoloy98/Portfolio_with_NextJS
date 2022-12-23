@@ -2,7 +2,7 @@ export function About() {
   return (
     <section
       id="about"
-      className="px-4 md:px-4 xl:px-0 grid justify-center my-52 lg:max-w-6xl lg:mx-auto"
+      className="px-4 pt-40 pb-28 md:px-4 xl:px-0 grid justify-center mb-32 lg:max-w-6xl lg:mx-auto"
     >
       <h2 className="mb-12 pb-1 text-xl md:text-2xl lg:text-3xl pl-4 border-l-4 border-slate-500">
         Mi nombre es{" "}
@@ -11,9 +11,9 @@ export function About() {
 
       <p className="text-justify font-sans2 lg:text-lg">
         Cuento con experiencia en la creación de aplicaciones web del lado del
-        cliente usando ReactJS y VueJS, usando TailwindCSS, Ant Design,
-        ChakraUI entre otras, para creación de interfaces de usuario. Entusiasta
-        del Backend con conocimientos en diseño de APIs. Organizador de una
+        cliente usando ReactJS y VueJS, usando TailwindCSS, Ant Design, ChakraUI
+        entre otras, para creación de interfaces de usuario. Entusiasta del
+        Backend con conocimientos en diseño de APIs. Organizador de una
         comunidad de tecnología, con capacidades de comunicación, liderazgo y
         trabajo en equipo.
       </p>
