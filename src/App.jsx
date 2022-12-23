@@ -1,16 +1,13 @@
-import React, { useState } from "react";
+import React from "react";
 import { menuList, Navbar } from "./components/navbar.jsx";
 import { Footer } from "./components/footer.jsx";
 import { ExperienceSection } from "./components/experience.jsx";
 import {HeroSection} from "./components/hero.jsx";
 import { AchievementSection } from "./components/achievement.jsx";
 import { About } from "./components/about.jsx";
+import { ContentCreator } from "./components/contentCreator.jsx";
 
 import {
-  Github,
-  Linkedin,
-  Twitter,
-  Mail,
   ChevronDown,
 } from "./components/icons.jsx";
 
@@ -32,6 +29,8 @@ function App() {
       <AchievementSection />
 
       <About />
+
+      <ContentCreator />
 
       <Footer />
 
