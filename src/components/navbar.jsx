@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Github, Close, Menu } from "./icons.jsx";
+import { Github, Close, Menu, Logo1, Logo2 } from "./icons.jsx";
 
 export const menuList = [
   ["home", "/"],
@@ -23,7 +23,7 @@ export function Navbar() {
         <div className="mx-auto lg:max-w-6xl overflow-auto px-4 sm:px-6 h-20 flex items-center justify-between md:justify-start">
           <div className="flex justify-start lg:w-0 lg:flex-1">
             <a className="flex place-items-center" href="/">
-              <Github />
+              <Logo1 />
             </a>
           </div>
 
