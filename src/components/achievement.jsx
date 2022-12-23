@@ -35,17 +35,17 @@ export function AchievementSection() {
         <div className="flex flex-col gap-8">
           {data.map((item) => (
             <div className="flex items-center gap-4">
-              <figure className="bg-blue-300 rounded-full p-3 md:p-4">
+              <figure className="bg-blue-500 text-white rounded-full p-3 md:p-4">
                 {getIcon(item.icon)}
               </figure>
-              <div className="flex flex-col gap-1">
+              <div className="flex flex-col">
                 <h3 className="uppercase font-sans2 tracking-wide font-bold text-sm md:text-base lg:text-lg">
                   {item.title}
                 </h3>
-                <p className="text-xs md:text-sm font-semibold text-gray-500 tracking-wider capitalize">
+                <p className="text-xs mb-1 md:text-sm font-sans2 font-semibold text-gray-500 tracking-wider capitalize">
                   {item.level}
                 </p>
-                <p className="text-sm md:text-base font-sans2 font-light text-gray-500 capitalize">
+                <p className="text-sm md:text-base font-sans2 font-light text-gray-400 capitalize">
                   {item.date}
                 </p>
               </div>
