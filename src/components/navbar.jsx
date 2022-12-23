@@ -6,8 +6,7 @@ export const menuList = [
   ["experience", "#experience"],
   ["achievements", "#achievements"],
   ["about", "#about"],
-  ["blogs", "#blogs"],
-  ["talks", "#talks"],
+  ["content", "#content"],
   ["contact", "#contact"],
 ];
 
