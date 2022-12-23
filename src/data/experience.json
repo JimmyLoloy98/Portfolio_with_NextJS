@@ -2,83 +2,73 @@
   "name": "experience",
   "data": [
     {
-      "title": "personal website",
+      "title": "portfolio website",
       "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417431/samples/ecommerce/accessories-bag.jpg",
       "type": "personal project",
-      "description": "My own personal website as a software developer. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "description": "Mi propio sitio web y portafolio, desarrollado usando tecnologías como: ReactJS, TailwindCSS y ViteJS como empaquetador. Aqui muestro los proyectos en los que he trabajado tanto de manera personal como profesional.",
       "links": {
-        "repositorie": "https://github.com/JimmyLoloy98/postfolio-JL",
-        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+        "repositorie": "https://github.com/JimmyLoloy98/Portfolio-JL",
+        "live": "https://jloloy.vercel.app/"
       }
     },
     {
       "title": "sistema de evaluacion alumno docente",
       "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417429/samples/landscapes/beach-boat.jpg",
       "type": "startup",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "description": "Este es un proyecto desarrollado con un equipo de personas, con el objetivo de poder crear un software que permita, a las universidas, poder gestionar su proceso de evaluación docente y emitir reportes de resultados para una mejor toma de decisiones.",
       "links": {
-        "repositorie": "https://github.com/JimmyLoloy98/postfolio-JL",
-        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
-      }
-    },
-    {
-      "title": "soundclub music player",
-      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417428/samples/landscapes/architecture-signs.jpg",
-      "type": "personal project",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
-      "links": {
-        "repositorie": "https://github.com/JimmyLoloy98/postfolio-JL",
-        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+        "repositorie": "https://jloloy.vercel.app/",
+        "live": "https://sead-front.onrender.com"
       }
     },
     {
       "title": "my daily bootcamp",
       "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417425/samples/landscapes/girl-urban-view.jpg",
       "type": "personal project",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "description": "Proyecto desarrollado dentro del bootcamp de Front-End de BootcampX, el cual consiste en un sitio web que permite a los usuarios poder crear, editar y eliminar sus propios posts como una mini red social personal.",
       "links": {
-        "repositorie": "https://github.com/JimmyLoloy98/postfolio-JL",
-        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+        "repositorie": "https://github.com/JimmyLoloy98/my-daily-bootcamp-react",
+        "live": "https://mydaylibootcampx.netlify.app/"
       }
     },
     {
       "title": "grupo romero",
       "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417430/samples/ecommerce/leather-bag-gray.jpg",
       "type": "freelance",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "description": "Sitio web de noticiero de la empresa Grupo Romero, he desarrollado el Front-End de esta aplicación.",
       "links": {
-        "repositorie": "https://github.com/JimmyLoloy98/postfolio-JL",
-        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+        "repositorie": "https://github.com/JimmyLoloy98/GrupoRomeroSASS",
+        "live": "https://github.com/JimmyLoloy98/GrupoRomeroSASS"
       }
     },
     {
-      "title": "yaleth's store",
+      "title": "yaleth's baby store",
       "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417429/samples/ecommerce/car-interior-design.jpg",
       "type": "freelance",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "description": "Sitio web e-commerce de la empresa Yaleth's Baby Store, he desarrollado el Front-End de esta aplicación.",
       "links": {
-        "repositorie": "https://github.com/JimmyLoloy98/postfolio-JL",
-        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+        "repositorie": "https://github.com/JimmyLoloy98/BabyStore",
+        "live": "https://github.com/JimmyLoloy98/BabyStore"
       }
     },
     {
       "title": "sistema de gestion de investigaciones",
       "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417421/samples/ecommerce/analog-classic.jpg",
       "type": "hired",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "description": "Este software fue creado para la Universidad Nacional Agraria de la Selva. Y permite a las universidades poder gestionar sus investigaciones y emitir reportes documentarios para la parte administrativa.",
       "links": {
-        "repositorie": "",
-        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+        "repositorie": "https://sgi.unas.edu.pe/public",
+        "live": "https://sgi.unas.edu.pe/public"
       }
     },
     {
       "title": "opentech",
       "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417431/samples/ecommerce/accessories-bag.jpg",
       "type": "open source mantainer",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.",
+      "description": "Sitio web de la comunidad OpenTech, una comunidad de usuarios amantes de la tecnología donde fomentamos un espacio seguro y libre para compartir conocimientos, enseñar y aprender de manera colaborativa.",
       "links": {
-        "repositorie": "",
-        "live": "https://jimmyloloy98.github.io/postfolio-JL/"
+        "repositorie": "https://github.com/opentech-pe",
+        "live": "https://opentech.netlify.app/"
       }
     }
   ]

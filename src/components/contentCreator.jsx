@@ -21,7 +21,7 @@ export function ContentCreator() {
               </span>
             </figure>
             <div className="p-4">
-              <a href="#">
+              <a href={item.url} target="_blank">
                 <h5 className="mb-2 text-lg md:text-xl font-bold text-slate-700 hover:underline hover:text-slate-800 capitalize">
                   {item.title}
                 </h5>

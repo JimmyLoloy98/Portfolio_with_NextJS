@@ -10,7 +10,7 @@ export function ExperienceSection() {
       id="experience"
       className="pt-32 grid place-items-center lg:max-w-6xl lg:mx-auto"
     >
-      <h2 className="mb-8 pb-1 text-2xl border-b-2">Experience</h2>
+      <h2 className="mb-12 pb-1 text-2xl border-b-2">Experience</h2>
 
       {data.map((item) => (
         <div className="mb-8 px-4 md:px-4 xl:px-0 w-full md:flex md:flex-row">

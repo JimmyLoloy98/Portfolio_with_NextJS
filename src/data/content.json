@@ -1,44 +1,36 @@
 {
   "data": [
     {
-      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417431/samples/ecommerce/accessories-bag.jpg",
-      "title": "How to create a blog post",
-      "url": "https://www.contentcreator.com/",
+      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1671835021/samples/landscapes/opentech_1_l1kjm0.jpg",
+      "title": "openTech presentation",
+      "url": "https://docs.google.com/presentation/d/1mnP-aZZnB9VcBzsksT6Ab8DPXFmi5JYnOtU4hcgqm3g/edit?usp=sharing",
+      "type": "talk",
+      "date": "Tuesday, 18th of October 2022",
+      "tags" : ["meetup", "opentech", "community"]
+    },
+    {
+      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1671834696/samples/landscapes/impostor-syndrome_b6nrnm.jpg",
+      "title": "I vs Impostor Syndrome",
+      "url": "https://docs.google.com/presentation/d/1CWHWHdXp-pjn5pZ5befcHO111dZdmxhInf9nsv79p10/edit?usp=sharing",
+      "type": "talk",
+      "date": "Tuesday, 19th of July 2022",
+      "tags" : ["impostor", "meetup", "opentech"]
+    },
+    {
+      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1671835678/samples/landscapes/bg-talk2_mgelgk.jpg",
+      "title": "commits únicos con llave GPG en Windows",
+      "url": "https://jimmyloloy.notion.site/Haz-commits-nicos-con-llave-GPG-en-Windows-e79d1faca17744fb961095dd3fd91f4f",
       "type": "blog",
-      "date": "Tuesday, 20th of August 2019",
+      "date": "Thursday, 6th of January 2022",
       "tags" : ["blog", "content", "creator"]
     },
     {
-      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417429/samples/landscapes/beach-boat.jpg",
-      "title": "How to create a talk",
-      "url": "",
+      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1671834127/samples/landscapes/bg-talk_uxzajz.jpg",
+      "title": "comparte cuentas sin tener que compartir tus credenciales",
+      "url": "https://docs.google.com/presentation/d/17PPVWN27OGZjdWbiNP0IaBUqeUjZYfQYEM88Vi5AVUk/edit?usp=sharing",
       "type": "talk",
-      "date": "Tuesday, 23th of September 2019",
-      "tags" : ["meetup", "talk"]
-    },
-    {
-      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417428/samples/landscapes/architecture-signs.jpg",
-      "title": "Sign in to your Git account with GPG Key",
-      "url": "",
-      "type": "blog",
-      "date": "Tuesday, 16th of October 2019",
-      "tags" : ["git", "gpg", "security"]
-    },
-    {
-      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417425/samples/landscapes/girl-urban-view.jpg",
-      "title": "I vs Impostor Syndrome",
-      "url": "",
-      "type": "talk",
-      "date": "Tuesday, 19th of November 2019",
-      "tags" : ["soft", "skills", "impostor"]
-    },
-    {
-      "imageUrl": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1667417430/samples/ecommerce/leather-bag-gray.jpg",
-      "title": "share your knowledge with the world",
-      "url": "",
-      "type": "blog",
-      "date": "Tuesday, 22th of December 2019",
-      "tags" : ["share", "knowledge", "community", "blog"]
+      "date": "thursday, 12th of December 2019",
+      "tags" : ["share-account", "meetup", "talk", "opentech"]
     }
   ]
 }
