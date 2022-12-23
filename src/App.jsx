@@ -18,8 +18,8 @@ function App() {
 
       <HeroSection />
 
-      <div className=" relative bottom-16 flex justify-center items-center h-14">
-        <a href="#experience" className="p-2 rounded-full animate-bounce">
+      <div className=" relative bottom-20 flex justify-center items-center h-14">
+        <a href="#experience" className="p-2 rounded-full animate-bounce duration-500">
           <ChevronDown />
         </a>
       </div>
