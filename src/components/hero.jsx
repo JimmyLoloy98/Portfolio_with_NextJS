@@ -14,7 +14,7 @@ export function HeroSection() {
       </figure>
 
       <section className="mt-6 flex flex-col items-center">
-        <p className="px-4 py-1 text-sm text-white rounded-tl-2xl rounded-tr-2xl rounded-br-2xl bg-cyan-600">
+        <p className="px-4 py-1 text-sm text-white rounded-tl-2xl rounded-tr-2xl rounded-br-2xl bg-slate-500">
           Hello!, I'm
         </p>
 
